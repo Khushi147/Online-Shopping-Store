@@ -1,0 +1,26 @@
+#main{
+	margin-top: 20px;
+	margin-right:100px; 
+}
+.card{
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin: 20px;
+	border: 2px dashed pink;
+}
+.para{
+	text-align: center;
+	font-family: chilanka;
+	margin-top: 15px;
+	height: 120px;
+}
+.card:hover{
+	box-shadow: 5px 5px 15px black;
+}
+img{
+	width: 250px;
+	height: 250px;
+	margin-left: 25px;
+	margin-top: 10px; 
+}
